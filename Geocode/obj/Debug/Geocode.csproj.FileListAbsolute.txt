@@ -1,0 +1,20 @@
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\bin\Debug\Geocode.exe.config
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\bin\Debug\Geocode.exe
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\bin\Debug\Geocode.pdb
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\bin\Debug\MetroFramework.Design.dll
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\bin\Debug\MetroFramework.dll
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\bin\Debug\MetroFramework.Fonts.dll
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\obj\Debug\Geocode.csprojResolveAssemblyReference.cache
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\obj\Debug\Geocode.Form1.resources
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\obj\Debug\Geocode.Properties.Resources.resources
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\obj\Debug\Geocode.csproj.GenerateResource.Cache
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\obj\Debug\Geocode.exe
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\obj\Debug\Geocode.pdb
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\obj\Debug\Geocode.Reverso.resources
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\obj\Debug\Geocode.Geocode.resources
+c:\users\pedro.rezende\documents\visual studio 2013\Projects\Geocode\Geocode\obj\Debug\Geocode.ViewGeocodeReverso.resources
+C:\Users\pedro.rezende\Documents\Visual Studio 2013\Projects\Geocode\Geocode\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedro.rezende\Documents\Visual Studio 2013\Projects\Geocode\Geocode\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pedro.rezende\Source\Repos\Geocode\Geocode\bin\Debug\Geocode.exe.config
+C:\Users\pedro.rezende\Source\Repos\Geocode\Geocode\obj\Debug\Geocode.exe
+C:\Users\pedro.rezende\Source\Repos\Geocode\Geocode\obj\Debug\Geocode.pdb
